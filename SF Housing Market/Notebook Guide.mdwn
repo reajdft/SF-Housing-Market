@@ -1,0 +1,14 @@
+# SF Housing Market Visualization
+## Market Analysis
+*********
+**file labelled: "rental_analysis"*
+* Could not get the last plot to display 
+
+## Interactive Dashboard
+*****
+**file labelled: "dashboard"*
+### Plots are organized into 4 tabs as follows:
+* Aggregate SF Market Annual Housing Trends - overview of annual data (total units, avg rent, avg sale price)
+* Neighborhood Level Data Juxtaposed with Top 10 Markets by Avg Sale Price - interactive drill-down on specific markets within the SF DMA with a top 10 chart as a means of reference
+* Relational Represenation of Top 10 Neigborhoods - parallel coordinates/categories of top 10 markets including total units, avg rent, avg sale price to visualize the relationship between between the 3 metrics (avg rent, avg sales, total units)
+* Mapbox visualization including gross rent and avg sale price as a scatterplot to understand the geographic relationship between markets
